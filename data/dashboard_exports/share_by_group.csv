@@ -1,0 +1,13 @@
+Year,Decile_Group,Company,Share_Percent
+2022,High (D8-10),Lilly,53.3
+2022,High (D8-10),Novo,46.7
+2022,Low (D1-3),Lilly,60.4
+2022,Low (D1-3),Novo,39.6
+2022,Mid (D4-7),Lilly,58.8
+2022,Mid (D4-7),Novo,41.2
+2023,High (D8-10),Lilly,48.3
+2023,High (D8-10),Novo,51.7
+2023,Low (D1-3),Lilly,42.1
+2023,Low (D1-3),Novo,57.9
+2023,Mid (D4-7),Lilly,44.5
+2023,Mid (D4-7),Novo,55.5
