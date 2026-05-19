@@ -127,7 +127,7 @@ Finding 3:SURVIVES with reframe. The original framing ("three commercially disti
 
 ---
 
-## Why-Drill Conclusion (Finding 2): The Split-Pyramid Is Volume-Driven, Not Specialty-Driven
+## Why-Drill Conclusion (Finding 2): The Pattern Is Volume-Driven, But Geography Determines Where the Battle Is Most Acute
 
 After Finding 2 emerged from pressure testing, the natural next question was: **why** does the split-pyramid pattern exist? Why do top-decile prescribers favor Mounjaro while lower-decile prescribers favor Ozempic? Three candidate hypotheses were considered:
 
@@ -137,15 +137,13 @@ After Finding 2 emerged from pressure testing, the natural next question was: **
 
 Hypothesis A was tested first because it was the most strategically meaningful and the most directly testable with the available data.
 
-### The Test
+### Test 1 — Specialty Hypothesis (REJECTED)
 
 If clinical evidence is the driver, the split-pyramid pattern should be concentrated specifically in endocrinology — the specialty most likely to make evidence-based decisions. The diagnostic was simple: examine Novo's share within each (specialty × decile) cell across the five major prescribing specialties.
 
 **Predicted output if Hypothesis A is correct:** Novo's Decile 10 share should be substantially lower in endocrinology (40% or below) than in primary care or other specialties (52-55%). The endocrinology column should look visibly different from the others.
 
-### The Result — Hypothesis A REJECTED
-
-The Decile 10 row of the (specialty × decile) Novo-share grid is essentially flat across all five specialties:
+**The Result:** The Decile 10 row of the (specialty × decile) Novo-share grid is essentially flat across all five specialties:
 
 | Specialty | Decile 10 Novo Share |
 |---|---|
@@ -155,59 +153,107 @@ The Decile 10 row of the (specialty × decile) Novo-share grid is essentially fl
 | Physician Assistant | 51.5% |
 | Internal Medicine | 52.4% |
 
-Range: 2.6 percentage points. Endocrinology is not special. Lilly's strength at the top decile is uniform across all specialties — primary care, mid-level providers, and specialists alike.
+Range: 2.6 percentage points. Endocrinology is not special. Lilly's strength at the top decile is uniform across all specialties — primary care, mid-level providers, and specialists alike. The clinical-evidence-driven specialty story does not explain the split-pyramid pattern.
 
-This decisively refutes Hypothesis A. The clinical-evidence-driven specialty story does not explain the split-pyramid pattern.
+### What Specialty Failed to Explain, Geography Reveals
 
-### The Surprise — A Stronger Finding Emerged
+While the specialty test refuted Hypothesis A, it pointed to a more universal pattern: every specialty showed the same volume-driven dynamic. Within each specialty, low-decile prescribers strongly favored Novo (55-71%) while high-decile prescribers were contested (49-54%).
 
-While the specialty-driven explanation failed, the (specialty × decile) grid revealed something more interesting: **the volume-driven pattern is universal across specialties.**
+To understand *where* this volume-driven dynamic is intensifying fastest, the analysis was extended to a geographic cut. The result reveals significant heterogeneity that the national-level data was hiding.
 
-Examining the endocrinology column specifically:
-- Decile 1 (low-volume endos): Novo wins 65.6%
-- Decile 2 (low-volume endos): Novo wins 71.1%
-- Decile 10 (high-volume endos): Novo wins only 51.0%
+### Geographic Distribution of Mounjaro's Decile 10 Penetration (2022 → 2023)
 
-The same pattern repeats in every specialty. Across all five specialties, Decile 1-4 Novo share is 55-71% (strong dominance), while Decile 8-10 Novo share is 49-54% (essentially tied).
+Mounjaro's growth in Decile 10 from 2022 to 2023 varies enormously by state. The following table shows the year-over-year change in Mounjaro share within each state's Decile 10 prescriber population, ranked by the magnitude of growth:
 
-In other words: **a low-volume endocrinologist behaves like a low-volume family doctor (both favor Ozempic), and a high-volume endocrinologist behaves like a high-volume family doctor (both contested).** Specialty does not predict competitive behavior. Prescribing volume does.
+| State | Mounjaro 2022 share | Mounjaro 2023 share | Change | Decile 10 volume |
+|---|---|---|---|---|
+| Alabama | 1.6% | 25.3% | **+23.7pp** | 211,318 |
+| Louisiana | 1.9% | 23.7% | **+21.8pp** | 195,185 |
+| Indiana | 1.6% | 19.9% | **+18.3pp** | 158,848 |
+| Georgia | 0.9% | 18.9% | **+18.0pp** | 244,142 |
+| Tennessee | 1.8% | 17.2% | **+15.4pp** | 161,248 |
+| Texas | 1.1% | 16.1% | **+15.0pp** | 516,442 |
+| Florida | 0.6% | 14.7% | **+14.1pp** | 357,533 |
+| Ohio | 0.5% | 12.5% | **+12.0pp** | 202,383 |
+| North Carolina | 0.6% | 12.6% | **+12.0pp** | 225,365 |
+| Michigan | 0.6% | 12.3% | **+11.7pp** | 167,914 |
+| New York | 0.9% | 11.6% | **+10.7pp** | 468,763 |
+| Illinois | 0.3% | 9.6% | **+9.3pp** | 161,715 |
+| California | 0.7% | 10.0% | **+9.3pp** | 486,087 |
+| Pennsylvania | 0.4% | 9.1% | **+8.7pp** | 284,914 |
+| Massachusetts | 0.7% | 8.6% | **+7.9pp** | 170,188 |
 
-### Strategic Implication of the Refuted Hypothesis
+The range is substantial: from +7.9pp in Massachusetts to +23.7pp in Alabama — a 3x difference in growth rate within a single year.
 
-The actual finding is broader and more strategically actionable than the original hypothesis would have been:
+### The Southern Concentration Pattern
 
-| Original (rejected) framing | Data-supported framing |
-|---|---|
-| Mounjaro is winning endocrinologists specifically | Mounjaro is winning high-volume prescribers across all specialties |
-| Defensive target: 5,700 endocrinologists (3.4% of prescriber universe) | Defensive target: ~17,000 high-volume prescribers across all specialties (Decile 10, writing 42% of total volume) |
-| Recommendation: invest in clinical evidence, KOL programs targeted at endos | Recommendation: invest in coverage and engagement of all high-volume prescribers regardless of specialty |
-| Limited scope, specialty-bounded strategy | Broader scope, volume-based segmentation strategy |
+Of the top 10 fastest-growing Mounjaro states in Decile 10, eight are in the Southern US (Alabama, Louisiana, Arkansas, Georgia, Kentucky, Oklahoma, South Carolina, Tennessee). Indiana — the state where Lilly is headquartered — also appears in this group. **Mounjaro's expansion is concentrated in the Southern United States, with Lilly's home state showing strong adoption.**
 
-The data-supported framing is materially more useful. It expands the addressable defensive population by 3x and points to a different commercial play.
+By contrast, states with significant academic medical infrastructure — Massachusetts (the slowest grower at +7.9pp) and Pennsylvania (+8.7pp) — show the slowest Mounjaro adoption. This is contrary to the conventional expectation that academic centers adopt new drugs first; in this market, academic regions appear to be more conservative, possibly waiting for cardiovascular outcomes data that Mounjaro has not yet established.
 
-### What Might Explain the Volume-Driven Pattern (Unresolved)
+### The Competitive Picture by State (Novo vs Lilly in Decile 10)
 
-With the data available, two refined hypotheses could explain why volume — not specialty — drives the competitive split:
+The combined Novo (Ozempic + Rybelsus) versus Lilly (Trulicity + Mounjaro) head-to-head share in Decile 10 reveals which states Novo has already lost, which it currently leads, and which are critical defensive positions:
 
-1. **Volume-driven sophistication:** High-volume prescribers, regardless of specialty title, develop deeper clinical knowledge through experience. They attend more conferences, see more diabetes patients, and become more responsive to clinical evidence. This makes them functionally similar to specialists in decision-making, even if their formal specialty is primary care.
+| State | Novo Decile 10 Share | Lilly Decile 10 Share | Status |
+|---|---|---|---|
+| Massachusetts | 33.7% | 66.3% | Lilly dominant — likely already lost |
+| Ohio | 42.5% | 57.5% | Lilly dominant |
+| Michigan | 42.9% | 57.1% | Lilly dominant |
+| Louisiana | 45.5% | 54.6% | Lilly leads narrowly |
+| Pennsylvania | 47.1% | 52.9% | Lilly leads narrowly |
+| Indiana | 47.8% | 52.2% | Lilly leads narrowly (Lilly home state) |
+| Alabama | 48.4% | 51.6% | Contested |
+| Georgia | 52.2% | 47.7% | Novo leads narrowly |
+| New York | 52.8% | 47.2% | Novo leads narrowly |
+| Illinois | 52.9% | 47.1% | Novo leads narrowly |
+| Florida | 54.3% | 45.7% | Novo solid lead |
+| Tennessee | 54.7% | 45.2% | Novo solid lead |
+| California | 55.1% | 44.8% | Novo solid lead — high volume stronghold |
+| Texas | 56.9% | 43.0% | Novo solid lead — highest volume stronghold |
+| North Carolina | 58.9% | 41.1% | Novo strongest position |
 
-2. **Rep coverage by volume:** Pharmaceutical sales forces — including Lilly's — allocate rep visits and engagement effort based on prescribing volume, not specialty title. Mounjaro wins where reps push hardest, and reps push hardest at top-decile prescribers regardless of specialty.
+### Refined Conclusion
 
-These two mechanisms are not mutually exclusive — both could be partially true. Distinguishing them definitively would require sales force allocation data, which is not available in public CMS datasets. For Novo's commercial strategy, the practical implication is the same regardless of mechanism: defensive investment should target high-volume prescribers as a group, not specialty-based segments.
+The why-drill produces two layered findings rather than one:
 
-### Conclusion
+1. **Within-state pattern (volume-driven):** Across every state and every specialty, low-decile prescribers favor Novo while top-decile prescribers are contested. Specialty does not predict competitive behavior; volume does.
 
+<<<<<<< HEAD:Reports/candidate_findings.md
 The why-drill rejected the specialty-driven explanation and replaced it with a stronger, volume-driven framing. This refined understanding directly shapes the recommendation that follows: Novo's defensive strategy must be built around the top-decile prescriber population (~17,000 doctors), not around specialty-based silos.
 
 ## Strategic Recommendation: Concentrate Defensive Investment on Top-Decile Prescribers Across All Specialties
+=======
+2. **Across-state pattern (geographically concentrated):** Mounjaro's expansion in the high-volume segment is dramatically uneven geographically. Eight of the top 10 fastest-growing states are in the South. The high-volume segment battle is being fought most acutely in this region, while academic-heavy coastal states show much slower Mounjaro adoption.
+
+This dual finding sharpens the recommendation. Defensive investment cannot be uniformly distributed across the country. The geographic dimension determines *where* the volume-driven battle is most urgent, while the specialty-agnostic principle determines *who* within each state to engage.
+
+### What Cannot Be Determined From Available Data
+
+Two refined hypotheses about the underlying mechanism remain unresolved:
+
+1. **Volume-driven sophistication:** High-volume prescribers, regardless of specialty title, develop deeper clinical knowledge through experience. They attend more conferences, see more diabetes patients, and become more responsive to clinical evidence.
+
+2. **Rep coverage by volume:** Pharmaceutical sales forces — including Lilly's — allocate rep visits and engagement effort based on prescribing volume, not specialty title. Mounjaro wins where reps push hardest.
+
+Neither can be definitively confirmed without sales force allocation data, which is not in public CMS datasets. For Novo's commercial strategy, the practical implication is the same regardless of mechanism: defensive investment should target high-volume prescribers as a group, with geographic prioritization based on where Mounjaro is winning fastest and where Novo's current strongholds remain defensible.
+
+## Strategic Recommendation: Tier Defensive Investment Geographically Within the Top-Decile Prescriber Population
+>>>>>>> 3db44ef8844a39d644345b1e1a58e46d7a9f9cfd:candidate_findings.md
 
 ### Context
 
 Novo's 2023 macro share gain (+8.1pp at the company level) is real but largely a passive byproduct of Trulicity's collapse rather than competitive victory. Within the top decile — approximately 17,000 prescribers writing 42% of all Medicare diabetes GLP-1 volume — Novo's lead is razor-thin (51% vs Lilly's 49%), and Mounjaro has been the structural winner of this segment since its 2022 launch.
 
+<<<<<<< HEAD:Reports/candidate_findings.md
 The why-drill analysis revealed that the split-pyramid pattern is volume-driven, not specialty-driven. A top-decile family practice doctor behaves commercially like a top-decile endocrinologist. The defensive target is therefore not 5,700 endocrinologists (3.4% of prescribers) but ~17,000 high-volume prescribers across all specialties, with primary care representing more than half of this population.
 
 The recommendation that follows addresses this structural risk before the easy-win Trulicity-conversion period ends.
+=======
+The why-drill analysis revealed two layered patterns. First, the split-pyramid is volume-driven, not specialty-driven: a top-decile family practice doctor behaves commercially like a top-decile endocrinologist. Second, Mounjaro's expansion within the top decile is heavily concentrated geographically — Southern US states are losing high-volume prescribers to Mounjaro three times faster than coastal academic states.
+
+The recommendation that follows incorporates both findings. The defensive target is ~17,000 high-volume prescribers across all specialties, but the *intensity* of investment in each geography varies based on where Novo can defend efficiently.
+>>>>>>> 3db44ef8844a39d644345b1e1a58e46d7a9f9cfd:candidate_findings.md
 
 ### Why Top-Volume Prescribers Currently Favor Mounjaro
 
@@ -215,6 +261,7 @@ Four interlocking factors explain why high-volume prescribers across all special
 
 1. **Clinical potency:** Mounjaro's tirzepatide is a dual-receptor (GLP-1 + GIP) molecule that has demonstrated superior efficacy versus Ozempic's single-receptor semaglutide. The SURPASS-2 head-to-head trial showed greater A1C reduction (2.0% vs 1.4%) and greater weight loss (12kg vs 6kg). For the harder-to-control patients who concentrate in high-volume practices, this clinical difference is meaningful.
 
+<<<<<<< HEAD:Reports/candidate_findings.md
 2. **Faster clinical evidence diffusion:** Top-volume prescribers attend major diabetes conferences (ADA, EASD), subscribe to specialist journals, and update prescribing patterns within 6-12 months of new clinical data. Whether they are formally specialists or high-volume primary care providers, their prescribing volume forces them into closer engagement with clinical literature.
 
 3. **Lilly's structural commercial advantage in the segment:** Lilly's diabetes franchise has 100+ years of US presence and a disproportionately strong sales force, KOL network, and clinical trial infrastructure focused on top-volume prescribers. Mounjaro launched into a pre-built relationship infrastructure; Novo's commercial strength has historically been more concentrated in patient-direct messaging and lower-decile coverage.
@@ -247,6 +294,71 @@ The reallocation has three specific components:
 | **Top-Decile Primary Care** (subset of top decile) | ~12,500 prescribers | (subset of 42%) | High priority: same intensive coverage as top-decile endocrinology, with messaging adapted to primary care decision-making (less specialist-focused, more patient-outcome-focused) | This population is 3.4x larger than top-decile endocrinology. Treating them as a separate, lower-tier segment is the most expensive strategic mistake Novo could make. |
 
 The Decile 1-3 cut is the budget release mechanism that funds the top-decile reinvestment. Approximately 52,000 prescribers writing 6% of volume cannot justify high-touch rep coverage. Moving them to digital and educational channels frees rep capacity for the top decile without requiring new budget.
+=======
+2. **Faster clinical evidence diffusion:** Top-volume prescribers attend major diabetes conferences (ADA, EASD), subscribe to specialist journals, and update prescribing patterns within 6-12 months of new clinical data.
+
+3. **Lilly's structural commercial advantage in the segment:** Lilly's diabetes franchise has 100+ years of US presence and a disproportionately strong sales force, KOL network, and clinical trial infrastructure focused on top-volume prescribers, particularly in the Southern US (consistent with Indiana being Lilly's headquarters and the Southern adoption pattern observed in the data).
+
+4. **Patient-mix matching:** Top-decile practices see disproportionately complex Type 2 diabetes cases. The Southern US has elevated diabetes prevalence and severity, which may explain why the volume-driven pattern is geographically concentrated there — Southern practices have the patient mix where Mounjaro's efficacy advantage delivers the most observable clinical benefit.
+
+The four factors compound. Of the four, only #1 is fully out of Novo's commercial control.
+
+### What to Do — Three-Tier Geographic Investment Framework
+
+**Headline action:** Deploy Novo's defensive investment in three geographic tiers, prioritizing where the marginal return on rep effort is highest. The total budget envelope is ~$200M over 3 years, sourced by reducing rep coverage of Decile 1-3 prescribers (52,000 prescribers writing only 6% of volume — structurally low ROI per rep visit).
+
+**Tier 1: Defend Novo's High-Volume Strongholds (45-55% of investment)**
+
+Target the four states where Novo currently leads decisively in Decile 10 and where the absolute volume is largest:
+
+| State | Novo Decile 10 Share | Decile 10 Volume |
+|---|---|---|
+| Texas | 56.9% | 516K claims |
+| California | 55.1% | 486K claims |
+| New York | 52.8% | 469K claims |
+| Florida | 54.3% | 358K claims |
+
+These four states account for approximately 25% of national Decile 10 volume. Defending Novo's leadership here is structurally efficient — Novo is winning, the prescriber base is engaged, and incremental rep frequency reinforces existing commercial relationships rather than fighting against them. Mounjaro has grown here (10-16% Decile 10 share) but has not yet established dominance.
+
+Investment focus: 12-15 rep visits/year on Decile 10 prescribers, KOL programs, cardiovascular outcomes positioning (where Ozempic has SELECT trial data Mounjaro cannot match), congress sponsorship at ADA and ACC.
+
+**Tier 2: Selective Intervention in Critical Southern Battlegrounds (35-40% of investment)**
+
+Target states where Mounjaro is growing rapidly but Novo still has a competitive position:
+
+| State | Mounjaro 2023 Growth | Novo Decile 10 Share | Strategic Status |
+|---|---|---|---|
+| Tennessee | +15.4pp | 54.7% | Novo leads but threatened |
+| Georgia | +18.0pp | 52.2% | Novo leads narrowly |
+| Texas | +15.0pp | 56.9% | Novo solid; double-defended via Tier 1 |
+| Indiana | +18.3pp | 47.8% | Lilly home state; defensive investment to slow erosion |
+| Alabama | +23.7pp | 48.4% | Contested; aggressive defense required |
+| Louisiana | +21.8pp | 45.5% | Lilly leads narrowly; recoverable with intervention |
+
+Investment focus: aggressive rep coverage matching or exceeding Lilly's intensity, head-to-head clinical evidence positioning, peer-to-peer education programs, real-world evidence generation specific to Southern patient populations.
+
+**Tier 3: Withdraw from Already-Lost Geographies (no incremental investment)**
+
+States where Lilly's Decile 10 lead exceeds 14 percentage points and where reclaiming share would require disproportionate investment:
+
+| State | Lilly Decile 10 Share | Status |
+|---|---|---|
+| Massachusetts | 66.3% | Lilly dominant, Trulicity-loyal academic culture |
+| Ohio | 57.5% | Lilly dominant |
+| Michigan | 57.1% | Lilly dominant |
+
+Maintain current rep coverage at minimum levels. Do not increase investment. Resources are better deployed in Tiers 1 and 2 where marginal ROI is higher.
+
+### Operational Mechanics Across All Tiers
+
+Beyond the geographic prioritization, three structural changes apply nationally:
+
+1. **Reallocate rep capacity from Decile 1-3 to Decile 8-10.** Approximately 52,000 low-volume prescribers writing only 6% of category volume cannot justify high-touch rep coverage. Move them to digital and educational channels, freeing rep capacity for the top decile.
+
+2. **Restructure the field force from specialty-based to volume-based call planning.** The why-drill demonstrated that top-decile primary care doctors behave commercially like top-decile endocrinologists. A specialty-based field force misallocates effort by under-prioritizing high-volume primary care providers (who represent 52.7% of Decile 10) and over-prioritizing low-volume specialists.
+
+3. **Concentrate medical affairs investment on cardiovascular outcomes positioning.** Ozempic's SELECT trial demonstrated reduced cardiovascular events — a clinical benefit Mounjaro has not yet established. This is Novo's only differentiated clinical asset in the top decile and should be the centerpiece of all rep messaging, KOL programs, and congress engagement.
+>>>>>>> 3db44ef8844a39d644345b1e1a58e46d7a9f9cfd:candidate_findings.md
 
 ### Expected Impact in Dollars (with explicit assumptions)
 
@@ -259,19 +371,58 @@ The Decile 1-3 cut is the budget release mechanism that funds the top-decile rei
 - Cumulative annual revenue at risk by year 3: -21pp × $77M per share point = **$1.6B**
 
 **Recommended investment over 3 years:**
+<<<<<<< HEAD:Reports/candidate_findings.md
 - Increased rep capacity (200 additional rep FTEs at $400K loaded cost): ~$80M
 - KOL and clinical evidence programs: ~$60M
 - CV outcomes campaign and congress investment: ~$40M
 - Field force restructuring (specialty-to-volume call planning): ~$20M
+=======
+- Tier 1 (high-volume strongholds): ~$95M (concentrated rep coverage, KOL, CV outcomes campaigns)
+- Tier 2 (Southern battlegrounds): ~$75M (aggressive intervention, head-to-head positioning)
+- Tier 3 (withdrawn states): ~$0M incremental
+- Field force restructuring (specialty-to-volume call planning): ~$20M
+- Operational infrastructure (real-world evidence, content production): ~$10M
+>>>>>>> 3db44ef8844a39d644345b1e1a58e46d7a9f9cfd:candidate_findings.md
 - **Total investment: ~$200M over 3 years**
 
 **Expected defensive recovery:**
 - Industry benchmark for well-executed defensive campaigns: 50-70% recovery of projected share loss
+<<<<<<< HEAD:Reports/candidate_findings.md
 - Conservative midpoint: 60% defensive recovery
+=======
+- Geographic targeting expected to improve recovery rate above the midpoint due to higher marginal ROI in priority states
+- Conservative estimate: 60% defensive recovery
+>>>>>>> 3db44ef8844a39d644345b1e1a58e46d7a9f9cfd:candidate_findings.md
 - Revenue protected: $1.6B × 60% = **$960M defended over 3 years**
 
 **Net impact: $760M positive return on $200M investment, or approximately 5x payback ratio over 3 years.**
 
 ### What Could Go Wrong (Risks)
 
+<<<<<<< HEAD:Reports/candidate_findings.md
 **Risk 1: Mounjaro's clinical advantage is too large for messaging to overcome.** Even with concentrated rep effort and CV outcomes positioning, top-decile prescribers may continue to prefer Mounjaro because tirzepatide's efficacy advantage is genuinely clinically meaningful. Messaging cannot overcome a real molecular adva
+=======
+**Risk 1: Mounjaro's clinical advantage is too large for messaging to overcome, particularly in Southern states.** The same factors driving Mounjaro's Southern dominance — patient complexity, severe diabetes, comorbidities — may make even concentrated rep effort insufficient. Doctors choosing Mounjaro for clinical reasons cannot be persuaded by visit frequency alone.
+- *Probability:* Medium-high in Southern Tier 2 states; medium elsewhere
+- *Detection signal:* If 6-month rep-frequency increases in Tier 2 states produce no measurable share shift, the strategy is failing in those geographies
+- *Backup plan:* Pivot Tier 2 budget toward Tier 1 strongholds (consolidate the wins) and accelerate R&D investment in next-generation Novo molecules (CagriSema, oral semaglutide combinations with GIP/GLP-1 mechanisms)
+
+**Risk 2: Lilly responds with matching or exceeding investment in priority states.** If Novo concentrates investment in Tiers 1 and 2, Lilly likely matches in those geographies. Both companies escalate spend, neither gains share, and rep-cost competition erodes margin.
+- *Probability:* Medium to high
+- *Detection signal:* Lilly increases Mounjaro rep frequency in Tier 1/2 states within 6 months
+- *Backup plan:* Compete on differentiated content (CV outcomes data, real-world evidence) rather than visit frequency. Lilly cannot easily replicate the SELECT trial advantage.
+
+**Risk 3: The Southern patient-mix dynamic intensifies.** If Southern diabetes prevalence and severity continue to rise — as projected demographics suggest — Mounjaro's clinical advantage may expand, making defense increasingly difficult.
+- *Probability:* High over 5+ years; lower over the 3-year recommendation horizon
+- *Detection signal:* Annual diabetes severity data (HbA1c distribution, comorbidity rates) showing accelerating Southern divergence
+- *Backup plan:* This is fundamentally an R&D problem; commercial defense alone cannot solve it. Novo must develop a Mounjaro-equivalent or superior molecule.
+
+**Risk 4: Field force restructuring fails internally.** Moving from specialty-based to volume-based and geography-tiered call planning is a substantial change management exercise. If reps resist or implementation stalls, the geographic targeting cannot be executed.
+- *Probability:* High in year one
+- *Detection signal:* Field force adoption metrics (call-plan adherence) below 70% at the 9-month mark
+- *Backup plan:* Phase the transformation. Pilot in three Tier 1 states first (Texas, California, Florida — collectively 40% of national Decile 10 volume) before national rollout.
+
+### Summary
+
+Novo's 2023 share gain creates a one-time opportunity to invest in defensive consolidation before Mounjaro's clinical evidence diffuses to lower-decile prescribers. The recommended $200M three-year reallocation, concentrated on the top-decile prescriber population with explicit geographic tiering, has a projected defensive ROI of approximately 5x. The key strategic refinement from earlier analyses is geographic: defensive investment cannot be uniform nationally because Mounjaro's expansion is heavily concentrated in Southern states while Novo's strongholds sit in high-volume coastal states. The recommendation prioritizes defending what is winnable (Tier 1 strongholds), aggressively contesting where the battle is most acute (Tier 2 Southern states), and disengaging from already-lost geographies (Tier 3) where marginal investment cannot achieve commercial returns.
+>>>>>>> 3db44ef8844a39d644345b1e1a58e46d7a9f9cfd:candidate_findings.md
