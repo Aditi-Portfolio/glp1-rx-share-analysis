@@ -175,13 +175,11 @@ glp1-rx-share-analysis/
 │   ├── GLP1_Competitive_Analysis_Novo_vs_Lilly.pptx   ← 10-slide consulting deck
 │   ├── GLP1_Competitive_Analysis_Novo_vs_Lilly.pdf    ← PDF export for easy viewing
 │   └── candidate_findings.md          ← Strategic findings document
-│
-├── dashboard/
-│   └── screenshots/                   ← Power BI dashboard screenshots (3 views)
-│       ├── view1_overview.png
-│       ├── view2_specialty_decile.png
-│       └── view3_geographic.png
-│
+│ 
+│ 
+├── Pressure_test.md
+│ 
+│ 
 └── .gitignore
 ```
 
