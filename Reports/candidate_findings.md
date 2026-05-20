@@ -425,4 +425,4 @@ Beyond the geographic prioritization, three structural changes apply nationally:
 ### Summary
 
 Novo's 2023 share gain creates a one-time opportunity to invest in defensive consolidation before Mounjaro's clinical evidence diffuses to lower-decile prescribers. The recommended $200M three-year reallocation, concentrated on the top-decile prescriber population with explicit geographic tiering, has a projected defensive ROI of approximately 5x. The key strategic refinement from earlier analyses is geographic: defensive investment cannot be uniform nationally because Mounjaro's expansion is heavily concentrated in Southern states while Novo's strongholds sit in high-volume coastal states. The recommendation prioritizes defending what is winnable (Tier 1 strongholds), aggressively contesting where the battle is most acute (Tier 2 Southern states), and disengaging from already-lost geographies (Tier 3) where marginal investment cannot achieve commercial returns.
->>>>>>> 3db44ef8844a39d644345b1e1a58e46d7a9f9cfd:candidate_findings.md
+
