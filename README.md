@@ -1,6 +1,6 @@
 # Medicare GLP-1 Competitive Landscape: Novo Nordisk vs Eli Lilly (2022–2023)
 
-**Self-initiated consulting case study | Data Analytics Portfolio Project**  
+**Self-initiated case study | Data Analytics Portfolio Project**  
 **Author:** Aditi Ghosh | Data Analyst, Zifo Technologies  
 **Contact:** ghoshaditi58@gmail.com | [LinkedIn](https://linkedin.com/in/aditi-ghosh03/)
 
